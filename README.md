@@ -1,6 +1,6 @@
 # litter-detection-tensorflow
 CSUSM: Project Management & Practice  
-Spring 2018 - Dr. Shaun-inn Wuu
+Spring 2018 - Dr. Marry K.
 ![Image](https://i.imgur.com/yUgihfe.png)
 
 # Task
@@ -62,7 +62,7 @@ At this stage, the algorithm only processes a static image.  Using the Google St
 # Team
 Name | Profile
 --- | ---
-Chris B. | https://github.com/isaychris
+Ralf H. | https://github.com/atsumi000105
 Kathy M. | https://github.com/kathymayo5
 Greg S. | https://github.com/gregseda
 Malia T. | https://github.com/curvySage
